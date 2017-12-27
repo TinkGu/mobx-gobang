@@ -1,0 +1,29 @@
+.modal-bg {
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(4, 10, 30, 0.8);
+    text-align: center;
+    z-index: 99999;
+}
+
+.modal-tip {
+    margin-top: 222px;
+    height: 60px;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 60px;
+    color: #fc3768;
+}
+
+.replay-tip {
+    height: 60px;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 60px;
+    color: #fff;
+    cursor: pointer;
+}
