@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { observer } from 'mobx-react'
 import { times } from '../utils'
-import './Board.css'
 
 @observer
 export default class Board extends Component {

@@ -4,7 +4,6 @@ import { autorun } from 'mobx'
 import Board from './components/Board'
 import Modal, { ReplayTip, NextTurnTip } from './components/Modal'
 import Store from './store/GameStore'
-import './App.css'
 
 const store = new Store()
 
