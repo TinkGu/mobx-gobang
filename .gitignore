@@ -16,3 +16,8 @@ npm-debug.log
 
 # ide
 .idea
+
+# reasonml
+reasonml/lib
+reasonml/build
+reasonml/**/*.bs.js

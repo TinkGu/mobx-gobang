@@ -2,9 +2,7 @@
 
 > just to learn mobx
 
-![demo](demo.png)
-
-[live demo](https://tinkgu.github.io/mobx-gobang/dist)
+[live demo](https://tinkgu.github.io/gobang-mvc/mobx)
 
 Inspired by [mobx-react-tetris](https://github.com/1984weed/mobx-react-tetris) and use its webpack.config.js
 
