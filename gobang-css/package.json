@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "style for gobang-mvc",
   "main": "gobang.css",
-  "style": "normalize.css",
+  "style": "gobang.css",
   "files": [
     "gobang.css"
   ],
