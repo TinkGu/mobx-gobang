@@ -1,0 +1,41 @@
+{
+  "name": "gobang-ai",
+  "version": "1.0.1",
+  "description": "describe algo for gobang",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "jest test --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinkGu/gobang-mvc.git"
+  },
+  "keywords": [
+    "gobang",
+    "algo"
+  ],
+  "files": [
+    "lib",
+    "src"
+  ],
+  "author": "TinkGu <tlwrite@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinkGu/gobang-mvc/issues"
+  },
+  "homepage": "https://github.com/TinkGu/gobang-mvc#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "6.14.0",
+    "babel-eslint": "^8.0.1",
+    "babel-jest": "^22.0.4",
+    "babel-preset-es2015": "6.14.0",
+    "eslint": "^4.13.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-loose-airbnb-react": "^1.0.0",
+    "eslint-plugin-import": "^2.8.0",
+    "jest": "^22.0.4"
+  }
+}
